@@ -37,6 +37,12 @@ Skeleton: https://jesse-m.itch.io/skeleton-pack
 Knife: hand made by ourself
 Copyright allows being used
 
+# Interface
+![image](https://github.com/xiaoyuan-ng/Programming-coursework/blob/main/interface.png)
 
+# User Control
+![image]()
+
+# Cite
 If you used our code, please send email to: 928249165@qq.com
 And please cite our work :)
