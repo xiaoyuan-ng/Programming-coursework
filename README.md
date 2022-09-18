@@ -41,7 +41,7 @@ Copyright allows being used
 ![image](https://github.com/xiaoyuan-ng/Programming-coursework/blob/main/interface.png)
 
 # User Control
-![image]()
+![image](https://github.com/xiaoyuan-ng/Programming-coursework/blob/main/instruction.png)
 
 # Cite
 If you used our code, please send email to: 928249165@qq.com
