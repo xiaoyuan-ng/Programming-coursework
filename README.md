@@ -38,3 +38,5 @@ Knife: hand made by ourself
 Copyright allows being used
 
 
+If you used our code, please send email to: 928249165@qq.com
+And please cite our work :)
